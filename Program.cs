@@ -1,4 +1,6 @@
-﻿namespace Activity2
+﻿using System;
+
+namespace Activity2
 {
     internal class Program
     {
